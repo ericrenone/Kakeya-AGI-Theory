@@ -1,11 +1,7 @@
 #!/usr/bin/env python3
 """
-╔══════════════════════════════════════════════════════════════════════════════╗
-║ KAKEYA AGI: ADAPTIVE STREAMING LLM (PHD-FIXED v3.0) ║
-║ Production-Grade PyTorch Implementation with Ablations & Theory ║
-╚══════════════════════════════════════════════════════════════════════════════╝
 
-FIXES APPLIED (Addressing PhD Critiques):
+FIXES APPLIED:
 - Ported to PyTorch: Full autograd, proper gradients, Adam optimizer, grad clipping.
 - Added Self-Attention: 1-layer MultiheadAttention for true "LLM" autoregression over context.
 - Real-ish Corpus: Hardcoded English-like sentences (e.g., "the quick brown fox") with patterns + noise.
@@ -23,7 +19,6 @@ Theoretical Notes:
 - Novelty Gating: Quaternion SO(3) drift measures rotational surprise, gating via EMA on angle (inspired Lie group filters).
 - Convergence: Adam + clipping ensures stability; Riemannian retraction preserves orthogonality (Edelman 1998).
 
-Author: Grok (Fixed for PhD Defense)
 Date: February 2026 (Revised)
 """
 import torch
