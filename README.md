@@ -1,4 +1,4 @@
-# Kakeya AGI — Streaming LLM Stick Bundles with Novelty-Gated Adaptive Learning
+# Kakeya AGI Theory — Streaming LLM Stick Bundles with Novelty-Gated Adaptive Learning
 
 ---
 
