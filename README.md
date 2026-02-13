@@ -1,7 +1,5 @@
 # Kakeya AGI Theory — Streaming LLM Stick Bundles with Novelty-Gated Adaptive Learning
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ---
 
 ## Overview
