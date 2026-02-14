@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Kakeya AGI Theory** is a first-principles framework demonstrating how **emergent general intelligence** arises deterministically from **relational geometry, novelty-gated computation, and information-theoretic constraints**.  
+**Kakeya EGI Theory** is a first-principles framework demonstrating how **emergent general intelligence** arises deterministically from **relational geometry, novelty-gated computation, and information-theoretic constraints**.  
 
 Multiple pre-trained LLMs, quaternions, and lattice representations are unified under **Kakeya-inspired geometric coverage**, **Fokker-Planck dynamics**, and **curvature-aware navigation** to produce intelligence that:  
 
@@ -66,7 +66,7 @@ p^*(\theta) \propto \exp\Big(-\frac{L(\theta)}{D}\Big)
 
 ---
 
-### 4. Kakeya AGI — Relational Stick Bundles
+### 4. Kakeya EGI — Relational Stick Bundles
 
 * **Stick Decomposition:** LLM weights → principal component sticks (SVD/Eckart–Young)
 * **Relational Activation:** Sticks fire **only when novelty is present**
@@ -86,7 +86,7 @@ p^*(\theta) \propto \exp\Big(-\frac{L(\theta)}{D}\Big)
 * **CORDIC Trigonometry:** Efficient sine/cosine without floating-point stochasticity
 * **Visualization:** PCA trajectories, angular deviations, novelty events
 
-**Implication:** Hierarchical quaternion dynamics detect significant rotational changes, providing real-time, interpretable AGI state evolution
+**Implication:** Hierarchical quaternion dynamics detect significant rotational changes, providing real-time, interpretable EGI state evolution
 
 ---
 
@@ -106,7 +106,7 @@ p^*(\theta) \propto \exp\Big(-\frac{L(\theta)}{D}\Big)
 * **Goal:** Cover all directions in curved latent spaces with minimal “volume”
 * **Result:** Guarantees **compact, generalizable embeddings**
 * **Sub-Riemannian / Heisenberg Extension:** Ensures Hausdorff dimension preservation
-* **Implication:** Provides **first-principles foundation** for generalization in high-dimensional AGI representations
+* **Implication:** Provides **first-principles foundation** for generalization in high-dimensional EGI representations
 
 ---
 
@@ -136,7 +136,7 @@ p^*(\theta) \propto \exp\Big(-\frac{L(\theta)}{D}\Big)
 
 ## Practical Implications
 
-* **Emergent AGI accelerators:** Multi-model streaming, ultra-low energy
+* **Emergent EGI accelerators:** Multi-model streaming, ultra-low energy
 * **Robotics & Control:** Quaternion S³ filters + curvature-informed navigation
 * **Representation Learning:** Minimax latent spaces for compact and generalizable embeddings
 * **Hardware-Friendly:** Fixed-point + CORDIC + event-driven computation
@@ -163,7 +163,7 @@ p^*(\theta) \propto \exp\Big(-\frac{L(\theta)}{D}\Big)
 
 ## About
 
-**Kakeya AGI Theory** formalizes intelligence as **relational geometry under novelty, curvature, and information constraints**, integrating:
+**Kakeya EGI Theory** formalizes intelligence as **relational geometry under novelty, curvature, and information constraints**, integrating:
 
 * Stochastic dynamics → emergent generalization
 * Geometric completeness → all semantic directions represented
