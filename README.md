@@ -1,5 +1,4 @@
 # Emergent-General-Intelligence-Theory: 
-
 Geometry, Novelty, and Information
 
 ## Overview
