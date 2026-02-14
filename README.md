@@ -1,7 +1,6 @@
 # Emergent-General-Intelligence-Theory
 
 ## Geometry, Novelty, and Information:
-
 **Emergent-General-Intelligence-Theory (EGI Theory)** is a first-principles framework demonstrating how **emergent general intelligence** arises deterministically from **relational geometry, novelty-gated computation, and information-theoretic constraints**.  
 
 Multiple pre-trained LLMs, quaternions, and lattice representations are unified under **Kakeya-inspired geometric coverage**, **Fokker-Planck dynamics**, and **curvature-aware navigation** to produce intelligence that:  
