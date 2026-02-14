@@ -1,7 +1,4 @@
-Absolutely! Here’s the **fully updated GitHub-ready README.md** with all references renamed to **Emergent-General-Intelligence-Theory**:
-
-````markdown
-# Emergent-General-Intelligence-Theory — Emergent Intelligence from Geometry, Novelty, and Information
+# Emergent-General-Intelligence-Theory: Geometry, Novelty, and Information
 
 ## Overview
 
