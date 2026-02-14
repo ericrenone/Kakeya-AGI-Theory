@@ -1,6 +1,5 @@
 # General Theory of Intelligence (GTI)
 
----
 
 ## Summary
 
