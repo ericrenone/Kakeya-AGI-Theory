@@ -253,7 +253,7 @@ C_α^φ = (μ^T g_φ^{-1} μ) / Tr(g_φ^{-1} D)
 
 ---
 
-### Theorem 5: Laplace Transform Stability (New)
+### Theorem 5: Laplace Transform Stability 
 
 **Claim:** The learning system is asymptotically stable if and only if all poles of the transfer function H(s) lie in the left half-plane, which occurs when C_α > 1.
 
@@ -815,13 +815,13 @@ C_α bounds mutual information I(X;Y) between network layers
 ### Dynamical Systems
 C_α = 1 corresponds to zero Lyapunov exponent (edge of chaos)
 
-### Control Theory (New)
+### Control Theory 
 C_α determines stability margins in the Nyquist plot; phase margin φ_m = arctan(C_α)
 
-### Signal Processing (New)
+### Signal Processing
 C_α is the signal-to-noise ratio (SNR) at DC frequency in the power spectrum
 
-### Laplace Transform Theory (New)
+### Laplace Transform Theory 
 Learning converges if and only if all poles of the transfer function H(s) lie in the left half-plane, which requires C_α > 1
 
 ---
